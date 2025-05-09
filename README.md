@@ -1,4 +1,4 @@
-# Customer Segmentaiton project: 🛗
+# Customer Segmentation project: 🛗
 
 ## Objective:
 Segmenting Customers based on the Credit Card usage and predicting the customers behaviour

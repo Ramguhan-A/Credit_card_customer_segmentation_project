@@ -31,7 +31,7 @@ $ HTML and CSS
 * Step 1: Importing the Clustered data
 * Step 2: Preprocessing
 * Step 3: EDA
-* Step 4: Mapping the Clustered data into Human Understadable form based on EDA
+* Step 4: Mapping the Clustered data into Human Understandable form based on EDA
 * Step 5: Train Test Split
 * Step 6: StandardScaler
 * Step 7: Model Training and Performance Evaluation

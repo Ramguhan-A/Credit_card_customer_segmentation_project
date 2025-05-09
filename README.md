@@ -8,6 +8,7 @@ Segmenting Customers based on the Credit Card usage and predicting the customers
 $ Pandas, 
 $ matplotlib, 
 $ seaborn, 
+$ scipy,
 $ sci_kit learn, 
 $ Flask, 
 $ HTML and CSS
@@ -44,3 +45,6 @@ $ HTML and CSS
 * Decision Tree Classifier	0.949721
 
 ### " ✅ Achieved 97.2 % Accuracy through Random Forest Classifier, Now based on the prediciton we can improve customer experience, Customer Engagement and we can provide Customized offers to our customers."
+
+![image](https://github.com/user-attachments/assets/2640d44e-9764-4396-9159-6a05a03da458)
+

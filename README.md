@@ -20,8 +20,8 @@ $ HTML and CSS
 * Step 3: EDA
 * Step 4: log transformation
 * Step 5: StandardScaler
-* Step 6: PCA
-* Step 7: KMeans Clustering
+* Step 6: PCA using scree plot
+* Step 7: KMeans Clustering using Elbow method
 * Step 8: Concatinating the labels with original dataset
 * Step 9: Saving the data in CSV format
 
